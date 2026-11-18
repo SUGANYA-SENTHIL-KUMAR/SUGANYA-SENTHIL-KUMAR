@@ -10,7 +10,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SUGANYA-SENTHIL-KUMAR&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SUGANYA-SENTHIL-KUMAR&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SUGANYA-SENTHIL-KUMAR&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://komarev.com/ghpvc/?username=SUGANYA-SENTHIL-KUMAR&icon=0&color=10)](https://visitcount.itsvg.in)
